@@ -1,5 +1,7 @@
 *{
     background-color: gray;
+    margin: auto; width: 95%; border: 3px;
+    padding: 1%;
 }
 h1{
     border: solid 2px red;
@@ -15,6 +17,19 @@ p{
     font-style: italic;
 }
 h3{
-    border: solid 5px blue;
+    
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: coral;
+}
+ol{
+    border: solid 4px orange;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+ul{
+    border: solid 4px orange;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
 }
